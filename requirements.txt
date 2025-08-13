@@ -1,0 +1,6 @@
+pandas 
+numpy 
+plotly 
+kagglehub
+streamlit
+dash
